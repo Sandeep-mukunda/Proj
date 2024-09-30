@@ -27,3 +27,6 @@ Resources:
 
 Outputs:
   set of outputs
+
+input:
+  set of inputs
